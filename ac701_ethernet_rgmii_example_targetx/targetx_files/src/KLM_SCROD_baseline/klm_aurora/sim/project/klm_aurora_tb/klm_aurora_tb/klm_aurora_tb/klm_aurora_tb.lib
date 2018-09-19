@@ -1,0 +1,324 @@
+timestamp=1405543738244
+
+[aurora_lane]
+A/mapped=A/MAPPED 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_lane.vhd|116|1*19788319
+BinI32/mapped=3*3176565
+I=0*82215
+I/mapped=I/MAPPED 0*355491
+M=11|0|va7|1403732473483|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_lane.vhd|0*80558*0x2c9c077e584b774d1d4f2c95f1be2c53a9d717f1|0*82053*0xab32bc1a2daf049573e14469f634e0e6
+M/mapped=M/MAPPED 21|0|va7|1405543734992|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_lane.vhd|0*348443*0x5246c9762dab8850c2d6b8fd2d108047918a0ef8|0*355319*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_lane.vhd|67
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/mapped=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[aurora_pkg]
+BinI32/aurora_pkg=3*3151350
+E=1*19735708
+I=0*38464
+I/aurora_pkg=I/AURORA_PKG 0*39104
+M=3|0|va7|1403732457021|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_pkg.vhd|0*38007*0x2ebff5e622ef3dfbf0eefad6795a1ab4fb982db0|0*38304*0xab32bc1a2daf049573e14469f634e0e6
+M/aurora_pkg=M/AURORA_PKG 4|0|va7|1405543733695|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_pkg.vhd|0*38624*0xc1099642c3c775ef14c4d1dc0a4a2b3a75ba62d6|0*38931*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_pkg.vhd|60
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[aurora_tile]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_tile.vhd|181|1*19582354
+BinI32/rtl=3*3149611
+I=0*6661
+I/rtl=I/RTL 0*329658
+M=11|0|va7|1403732456385|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_tile.vhd|0*3084*0xd6b53a5d9868e7800c62c47ea36d380f69b5c6f0|0*6499*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543733133|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_tile.vhd|0*311757*0xc0043b0c6c6c716b1f5e8b4cb18e83a4f31f3fb8|0*329489*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/aurora_tile.vhd|73
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[channel_err_detect]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/channel_err_detect.vhd|80|1*19814970
+BinI32/rtl=3*3178242
+I=0*90635
+I/rtl=I/RTL 0*92343
+M=11|0|va7|1403732473696|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/channel_err_detect.vhd|0*89950*0xafc4bc44cd4fd72c94d35e95f53fa31cc23ef1c2|0*90459*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543735185|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/channel_err_detect.vhd|0*90747*0x350c03f6fede7ab533bb1e879fd487d158966098|0*92160*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/channel_err_detect.vhd|65
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[channel_init_sm]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/channel_init_sm.vhd|110|1*19819107
+BinI32/rtl=3*3179635
+I=0*357118
+I/rtl=I/RTL 0*361571
+M=11|0|va7|1405543625308|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/channel_init_sm.vhd|0*356275*0xfa335a6a9dbf5652d561ad147dd1f94b33aed15d|0*356948*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543735419|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/channel_init_sm.vhd|0*357479*0xc35df23aa51b011155ef11e7cac4b37925a5fdc9|0*361394*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/channel_init_sm.vhd|91
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[chbond_count_dec]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/chbond_count_dec.vhd|71|1*19736579
+BinI32/rtl=3*3151725
+I=0*40069
+I/rtl=I/RTL 0*40969
+M=11|0|va7|1403732472439|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/chbond_count_dec.vhd|0*39499*0x1683beb62a559e28bfdf660583a724237c9b997d|0*39897*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543733907|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/chbond_count_dec.vhd|0*40237*0xfe766bfba0287bba84fb7c3dc54c45f38f024a5d|0*40790*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/chbond_count_dec.vhd|64
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[concentrator_aurora_tb]
+A/behave=21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/klm_aurora_tb.vhd|25|1*5766013
+BinI32/behave=3*890279
+I=0*220032
+I/behave=0*224094
+M=11|0|va7|1403797210044|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/klm_aurora_tb.vhd|0*219568*0x39fcb942e5934d88bbcffc322c68034c1ba19f69|0*219853*0xab32bc1a2daf049573e14469f634e0e6
+M/behave=21|0|va7|1403797210046|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/klm_aurora_tb.vhd|0*220148*0xe1fce838df329477ceafc000a9cb0d6c130f7563|0*223905*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/klm_aurora_tb.vhd|22
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/behave=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[err_detect]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/err_detect.vhd|87|1*19738628
+BinI32/rtl=3*3152262
+I=0*42397
+I/rtl=I/RTL 0*48195
+M=11|0|va7|1403732472655|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/err_detect.vhd|0*41557*0x02103a478fc165a321ce0cf5a8067df63a2e373e|0*42237*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543734123|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/err_detect.vhd|0*42753*0x06e4cb17fde090f70748d81fd617f86cabdb4eef|0*48028*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/err_detect.vhd|69
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[frame_check]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/frame_check.vhd|89|1*19951588
+BinI32/rtl=3*3205984
+I=0*210514
+I/rtl=I/RTL 0*214018
+M=11|0|va7|1403797144276|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/frame_check.vhd|0*209693*0xab41264ae23993e99e329ba9c655e653e25e3516|0*210348*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543737778|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/frame_check.vhd|0*210871*0x3853e63d52edf52ad3fbd92d2a80058e9f2154a6|0*213845*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/frame_check.vhd|74
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[frame_gen]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/frame_gen.vhd|92|1*19957261
+BinI32/rtl=3*3209643
+I=0*215526
+I/rtl=I/RTL 0*219097
+M=11|0|va7|1403797144489|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/frame_gen.vhd|0*214728*0xf4bc9382e691409bf31e59a04527350b4850d42d|0*215364*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543737989|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/frame_gen.vhd|0*215881*0x5dc2e81c7dde79281c2aa0157e220f8a0b8fc124|0*218928*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/frame_gen.vhd|76
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[global_logic]
+A/mapped=A/MAPPED 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/global_logic.vhd|87|1*19841972
+BinI32/mapped=3*3187833
+I=0*363494
+I/mapped=I/MAPPED 0*366518
+M=11|0|va7|1405543625717|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/global_logic.vhd|0*362583*0x049b88462af7b83478ebcbba760b6b2a727d55bc|0*363330*0xab32bc1a2daf049573e14469f634e0e6
+M/mapped=M/MAPPED 21|0|va7|1405543735821|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/global_logic.vhd|0*363600*0xfce32ed03f7a9a3c6847ba2fa47b28484219516c|0*366344*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/global_logic.vhd|63
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/mapped=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[gtp_wrapper]
+A/behavioral=A/BEHAVIORAL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/transceiver_wrapper.vhd|146|1*19707336
+BinI32/behavioral=3*3150813
+I=0*334432
+I/behavioral=I/BEHAVIORAL 0*342413
+M=11|0|va7|1405543623498|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/transceiver_wrapper.vhd|0*331973*0x5942af0b10c6f14d3b4d42f7bea483a524e1d6ee|0*334262*0xab32bc1a2daf049573e14469f634e0e6
+M/behavioral=M/BEHAVIORAL 21|0|va7|1405543733583|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/transceiver_wrapper.vhd|0*334662*0x5c013b2e5debcdf6ce20e9a5bb43d0c6e4d8bbc6|0*342229*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/transceiver_wrapper.vhd|73
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/behavioral=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[idle_and_ver_gen]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/idle_and_ver_gen.vhd|89|1*19828171
+BinI32/rtl=3*3184319
+I=0*99993
+I/rtl=I/RTL 0*105366
+M=11|0|va7|1403732474123|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/idle_and_ver_gen.vhd|0*99203*0x2b9d1a1496753aab00b4f0cfe2464cbd1d33ae12|0*99821*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543735627|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/idle_and_ver_gen.vhd|0*100294*0x4db2420aededc1030c1956e0e36bd550affec942|0*105187*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/idle_and_ver_gen.vhd|74
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[klm_aurora]
+A/mapped=A/MAPPED 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora.vhd|126|1*19892221
+BinI32/mapped=3*3203915
+I=0*164900
+I/mapped=I/MAPPED 0*395804
+M=11|0|va7|1403732857162|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora.vhd|0*163269*0xc9d54303d93b52f65a1bbabbfb93405003cda300|0*164740*0xab32bc1a2daf049573e14469f634e0e6
+M/mapped=M/MAPPED 21|0|va7|1405543737431|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora.vhd|0*381012*0x811ee7ac1733f902a5d5d6ec620237f6fc553ee8|0*395634*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora.vhd|70
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/mapped=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[klm_aurora_example_design]
+A/mapped=A/MAPPED 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora_intfc.vhd|105|1*2418846
+BinI32/mapped=3*366256
+I=0*182912
+I/mapped=I/MAPPED 0*192647
+M=11|0|va7|1403732897226|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora_intfc.vhd|0*181765*0x138f17cd170f01d179570cae3e4e4c2e1ca64663|0*182731*0xab32bc1a2daf049573e14469f634e0e6
+M/mapped=M/MAPPED 21|0|va7|1403732897235|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora_intfc.vhd|0*183216*0xf3314fffdd015695da1c815412e5ffaa1c9db3bf|0*192456*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora_intfc.vhd|70
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/mapped=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[klm_aurora_intfc]
+A/mapped=A/MAPPED 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora_intfc.vhd|62|1*19936216
+BinI32/mapped=3*3204682
+I=0*398644
+I/mapped=I/MAPPED 0*402829
+M=11|0|va7|1405543627436|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora_intfc.vhd|0*397258*0x0c551eb99b48c175c709268da584ea6f1b6edff0|0*398472*0xab32bc1a2daf049573e14469f634e0e6
+M/mapped=M/MAPPED 21|0|va7|1405543737555|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora_intfc.vhd|0*398876*0x2de66fd3c75b8c6b0f81c2ab78e1ecf2b51ba11e|0*402647*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/klm_aurora_intfc.vhd|20
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/mapped=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[klm_aurora_tb]
+A/behave=21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/klm_aurora_tb.vhd|22|1*19963312
+BinI32/behave=3*3213342
+I=0*224685
+I/behave=0*417106
+M=11|0|va7|1403803818994|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/klm_aurora_tb.vhd|0*224257*0xe49a5d15f5d654063a7aee8a912211875624e8e5|0*224515*0xab32bc1a2daf049573e14469f634e0e6
+M/behave=21|0|va7|1405543738203|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/klm_aurora_tb.vhd|0*410294*0x6233bad1fb768e3ecdb9f143f0d5761711828fd8|0*416926*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/sim/source/klm_aurora_tb.vhd|22
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/behave=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[lane_init_sm]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/lane_init_sm.vhd|102|1*19744035
+BinI32/rtl=3*3156914
+I=0*50411
+I/rtl=I/RTL 0*57689
+M=11|0|va7|1403732472869|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/lane_init_sm.vhd|0*49282*0xa77a50ac060a019905b1abcb21b25a053c37509d|0*50247*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543734353|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/lane_init_sm.vhd|0*50636*0xd589c775493a564e7c04cc09d6865e9216e9bf3b|0*57518*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/lane_init_sm.vhd|71
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[rx_ll]
+A/mapped=A/MAPPED 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/rx_ll.vhd|87|1*19880610
+BinI32/mapped=3*3199401
+I=0*130799
+I/mapped=I/MAPPED 0*155892
+M=11|0|va7|1403732475362|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/rx_ll.vhd|0*130057*0xb8ea6e95671faaf6532fe18863a4b9bb5ef3d0bb|0*130649*0xab32bc1a2daf049573e14469f634e0e6
+M/mapped=M/MAPPED 21|0|va7|1405543736859|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/rx_ll.vhd|0*154276*0x3b6db0bee272c4721b71f6b4c788ed184d7493fd|0*155732*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/rx_ll.vhd|65
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/mapped=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[rx_ll_pdu_datapath]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/rx_ll_pdu_datapath.vhd|89|1*19874424
+BinI32/rtl=3*3196345
+I=0*126207
+I/rtl=I/RTL 0*129301
+M=11|0|va7|1403732475155|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/rx_ll_pdu_datapath.vhd|0*125303*0x7f465f87735ac52110e2aa8275cd0c1d99e594af|0*126031*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543736650|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/rx_ll_pdu_datapath.vhd|0*126510*0xe2ef4b2e6607d705e820b572200ee8ee1f874304|0*129118*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/rx_ll_pdu_datapath.vhd|67
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[standard_cc_module]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/standard_cc_module.vhd|80|1*19886761
+BinI32/rtl=3*3200105
+I=0*375926
+I/rtl=I/RTL 0*380896
+M=11|0|va7|1405543626983|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/standard_cc_module.vhd|0*375348*0xfa60d351afe7bebc999194e3dcf9c441796e9e0b|0*375750*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543737084|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/standard_cc_module.vhd|0*376038*0x33fdff1b9705b5342206f2bdf87a4ccf1714c747|0*380713*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/standard_cc_module.vhd|70
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[sym_dec]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/sym_dec.vhd|92|1*19761081
+BinI32/rtl=3*3164974
+I=0*59490
+I/rtl=I/RTL 0*73310
+M=11|0|va7|1403732473072|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/sym_dec.vhd|0*58567*0xecd899b022a576c4ee00bb471aa14560f2bbe28c|0*59336*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543734558|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/sym_dec.vhd|0*59649*0x47a8b50faac2254b6a003ef64ac6c73995f81896|0*73149*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/sym_dec.vhd|66
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[sym_gen]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/sym_gen.vhd|102|1*19781273
+BinI32/rtl=3*3173126
+I=0*344228
+I/rtl=I/RTL 0*348338
+M=11|0|va7|1405543624669|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/sym_gen.vhd|0*343311*0x629a0dcf8099ea84d3b66b1d2674b023c4c6c2ce|0*344074*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543734752|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/sym_gen.vhd|0*344329*0x07bd22bb323964d2053933f5db404a343000fa57|0*348177*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/sym_gen.vhd|77
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[tx_ll]
+A/mapped=A/MAPPED 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll.vhd|88|1*19866239
+BinI32/mapped=3*3195732
+I=0*122178
+I/mapped=I/MAPPED 0*374893
+M=11|0|va7|1403732474948|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll.vhd|0*121356*0x4656e360f807cab0fde50e2b4963ac4914143a7c|0*122028*0xab32bc1a2daf049573e14469f634e0e6
+M/mapped=M/MAPPED 21|0|va7|1405543736447|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll.vhd|0*372547*0x8c371176d49637dfad815d54ae10d15dbe8bcedf|0*374733*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll.vhd|63
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/mapped=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[tx_ll_control]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll_control.vhd|91|1*19851769
+BinI32/rtl=3*3188493
+I=0*367983
+I/rtl=I/RTL 0*372323
+M=11|0|va7|1405543625936|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll_control.vhd|0*367220*0x729374f597d88be1e38b51684d09e526d9747fb0|0*367817*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543736033|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll_control.vhd|0*368148*0x7ddeaddd59e618b826d0a9457431e0a665a576e4|0*372150*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll_control.vhd|70
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[tx_ll_datapath]
+A/rtl=A/RTL 21|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll_datapath.vhd|82|1*19860744
+BinI32/rtl=3*3192744
+I=0*118001
+I/rtl=I/RTL 0*120717
+M=11|0|va7|1403732474739|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll_datapath.vhd|0*117223*0xec0701b773f333ca73ab31479bafbaa1c9ea213c|0*117833*0xab32bc1a2daf049573e14469f634e0e6
+M/rtl=M/RTL 21|0|va7|1405543736228|C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll_datapath.vhd|0*118109*0x1d87657133ad8843823c8af447c284cba41c14ef|0*120542*0x9883a4debb77c3d3c4860cd1e2edf83c
+R=C:/Users/bkunkler/Documents/CEEM/repos/Belle-II/firmware/KLM_SCROD/klm_aurora/source/tx_ll_datapath.vhd|62
+Version=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+Version/rtl=9.2.2499.sp1.36.4586  (Windows)|00000004789cd34d494a0700030f015b
+
+[~A]
+ModifyID=6925
+Version=73
+
+[~MFT]
+0=462|0klm_aurora_tb.mgf|417106|219790
+1=2311|1klm_aurora_tb.mgf|19963312|19543087
+3=2311|3klm_aurora_tb.mgf|3213342|3145912
+
+[~U]
+aurora_lane=AURORA_LANE 11|0*79249|
+aurora_pkg=AURORA_PKG 3|0*37811|0*37887
+aurora_tile=AURORA_TILE 11|0*0|
+channel_err_detect=CHANNEL_ERR_DETECT 11|0*89593|
+channel_init_sm=CHANNEL_INIT_SM 11|0*355891|
+chbond_count_dec=CHBOND_COUNT_DEC 11|0*39275|
+concentrator_aurora_tb=11|0*219456|
+err_detect=ERR_DETECT 11|0*41141|
+frame_check=FRAME_CHECK 11|0*209333|
+frame_gen=FRAME_GEN 11|0*214379|
+global_logic=GLOBAL_LOGIC 11|0*361990|
+gtp_wrapper=GTP_WRAPPER 11|0*329954|
+idle_and_ver_gen=IDLE_AND_VER_GEN 11|0*98853|
+klm_aurora=11|0*162018|
+klm_aurora_example_design=11|0*181018|
+klm_aurora_intfc=11|0*396259|
+klm_aurora_tb=11|0*224172|
+lane_init_sm=LANE_INIT_SM 11|0*48555|
+rx_ll=RX_LL 11|0*129608|
+rx_ll_pdu_datapath=RX_LL_PDU_DATAPATH 11|0*124819|
+standard_cc_module=STANDARD_CC_MODULE 11|0*375121|
+sym_dec=SYM_DEC 11|0*57973|
+sym_gen=SYM_GEN 11|0*342712|
+tx_ll=TX_LL 11|0*120829|
+tx_ll_control=TX_LL_CONTROL 11|0*366822|
+tx_ll_datapath=TX_LL_DATAPATH 11|0*116767|
+

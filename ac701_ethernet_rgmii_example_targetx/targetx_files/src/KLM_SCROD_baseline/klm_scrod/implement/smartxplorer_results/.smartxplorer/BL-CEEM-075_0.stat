@@ -1,0 +1,40 @@
+START:Strategy:1:MapRunTime
+REMOTE_PID:6920
+RUNNING:6920:3852:MapRunTime:map:klm_scrod.ngd: -ol high -w  -p xc6slx150t-fgg676-3 -o klm_scrod_map.ncd  C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun1:bslklm_scrod.pcf
+STATUS:MapRunTime:map:Score:None:lut:None:slice_reg:3,625 (1%):slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:140.30 secs 
+STATUS:MapRunTime:map:Score:None:lut:3,342 (3%):slice_reg:3,625 (1%):slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:140.30 secs 
+STATUS:MapRunTime:map:Score:None:lut:3,342 (3%):slice_reg:3,625 (1%):slice:1,539 (6%):bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:140.30 secs 
+STATUS:MapRunTime:map:Score:None:lut:3,342 (3%):slice_reg:3,625 (1%):slice:1,539 (6%):bram:2:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:140.30 secs 
+STATUS:MapRunTime:map:Score:None:lut:3,342 (3%):slice_reg:3,625 (1%):slice:1,539 (6%):bram:3:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:140.30 secs 
+STATUS:MapRunTime:map:Score:None:lut:3,342 (3%):slice_reg:3,625 (1%):slice:1,539 (6%):bram:3:dsp48:1 (1%):mult18x18:None:Power:None:wnsInfo:None:Time:140.30 secs 
+DONE:map:0
+RUNNING:6920:6812:MapRunTime:par:klm_scrod_map.ncd: -ol high  -w klm_scrod.ncd  C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun1:bslklm_scrod.pcf
+STATUS:MapRunTime:par:Score:2310:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:220.35 secs 
+STATUS:MapRunTime:par:Score:2211:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:220.35 secs 
+STATUS:MapRunTime:par:Score:494:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:330.46 secs 
+STATUS:MapRunTime:par:Score:280:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:330.46 secs 
+STATUS:MapRunTime:par:Score:0:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:330.46 secs 
+STATUS:MapRunTime:par:Score:0:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:0.014ns:Time:330.47 secs 
+DONE:par:0
+RUNNING:6920:5060:MapRunTime:trce:C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1\klm_scrod.ncd:C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun1:bslklm_scrod.pcf -xml C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun1:bslklm_scrod.twx -v 3 -s 3 -n 3 -fastpaths    -o C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun1:bslklm_scrod.twr
+STATUS:MapRunTime:trce:Score:0:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:350.48 secs 
+DONE:trce:0
+START:Strategy:8:MapRunTimeCT2
+REMOTE_PID:5216
+RUNNING:5216:5208:MapRunTimeCT2:map:klm_scrod.ngd:-ol high -w -t 2 -p xc6slx150t-fgg676-3 -o klm_scrod_map.ncd  C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun8:bslklm_scrod.pcf
+STATUS:MapRunTimeCT2:map:Score:None:lut:None:slice_reg:3,625 (1%):slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:80.03 secs 
+STATUS:MapRunTimeCT2:map:Score:None:lut:3,345 (3%):slice_reg:3,625 (1%):slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:80.03 secs 
+STATUS:MapRunTimeCT2:map:Score:None:lut:3,345 (3%):slice_reg:3,625 (1%):slice:1,548 (6%):bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:80.03 secs 
+STATUS:MapRunTimeCT2:map:Score:None:lut:3,345 (3%):slice_reg:3,625 (1%):slice:1,548 (6%):bram:2:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:80.03 secs 
+STATUS:MapRunTimeCT2:map:Score:None:lut:3,345 (3%):slice_reg:3,625 (1%):slice:1,548 (6%):bram:3:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:80.03 secs 
+STATUS:MapRunTimeCT2:map:Score:None:lut:3,345 (3%):slice_reg:3,625 (1%):slice:1,548 (6%):bram:3:dsp48:1 (1%):mult18x18:None:Power:None:wnsInfo:None:Time:80.03 secs 
+DONE:map:0
+RUNNING:5216:1944:MapRunTimeCT2:par:klm_scrod_map.ncd: -ol high  -w klm_scrod.ncd  C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun8:bslklm_scrod.pcf
+STATUS:MapRunTimeCT2:par:Score:132:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:125.03 secs 
+STATUS:MapRunTimeCT2:par:Score:0:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:125.03 secs 
+STATUS:MapRunTimeCT2:par:Score:0:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:0.014ns:Time:130.03 secs 
+DONE:par:0
+RUNNING:5216:7088:MapRunTimeCT2:trce:C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run8\klm_scrod.ncd:C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun8:bslklm_scrod.pcf -xml C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun8:bslklm_scrod.twx -v 3 -s 3 -n 3 -fastpaths    -o C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun8:bslklm_scrod.twr
+STATUS:MapRunTimeCT2:trce:Score:0:lut:None:slice_reg:None:slice:None:bram:None:dsp48:None:mult18x18:None:Power:None:wnsInfo:None:Time:145.06 secs 
+DONE:trce:0
+DONE:Xplorer

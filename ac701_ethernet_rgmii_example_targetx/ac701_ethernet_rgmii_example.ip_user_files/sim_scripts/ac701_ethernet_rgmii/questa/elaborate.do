@@ -1,0 +1,1 @@
+vopt -64 +acc -l elaborate.log -L unisims_ver -L unimacro_ver -L secureip -L xbip_utils_v3_0 -L xbip_pipe_v3_0 -L xbip_bram18k_v3_0 -L mult_gen_v12_0 -L axi_lite_ipif_v3_0 -L tri_mode_ethernet_mac_v9_0 -L xil_defaultlib -work xil_defaultlib xil_defaultlib.ac701_ethernet_rgmii xil_defaultlib.glbl -o ac701_ethernet_rgmii_opt

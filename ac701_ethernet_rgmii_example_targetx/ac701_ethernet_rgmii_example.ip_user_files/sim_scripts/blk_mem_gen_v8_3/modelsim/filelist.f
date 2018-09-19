@@ -1,0 +1,2 @@
+../../../../ac701_ethernet_rgmii_example.srcs/sources_1/ip/blk_mem_gen_v8_3/blk_mem_gen_v8_3_0/simulation/blk_mem_gen_v8_3.vhd
+../../../../ac701_ethernet_rgmii_example.srcs/sources_1/ip/blk_mem_gen_v8_3/sim/blk_mem_gen_v8_3.vhd

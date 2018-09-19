@@ -1,0 +1,45 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+klm_aurora_tb=1
+Built-in symbols=0
+
+[COMPILESTATUS|.\..\..\..\script\klm_aurora_tb.do]
+FileTimeLow=30381176
+Status=Modified
+
+[CACHEDOC|Aldec.Hde.HdePlugIn.7|.\..\..\..\source\klm_aurora_intfc.vhd|]
+CurrentLine=0
+CurrentColumn=0
+Bookmarks=-1
+BookmarksLength=3
+CurrentFontSize=-13
+Frame=0
+
+[CACHEDOC|Aldec.Hde.HdePlugIn.7|.\..\..\source\frame_gen.vhd|]
+CurrentLine=0
+CurrentColumn=0
+Bookmarks=-1
+BookmarksLength=3
+CurrentFontSize=-13
+Frame=0
+
+[CACHEDOC|Aldec.Hde.HdePlugIn.7|.\..\..\source\klm_aurora_tb.vhd|]
+CurrentLine=0
+CurrentColumn=0
+Bookmarks=-1
+BookmarksLength=3
+CurrentFontSize=-13
+Frame=0
+
+[General]
+CurrentVersion=103
+
+[CACHEDOC|Aldec.Project.Generic.7|.\klm_aurora_tb\klm_aurora_tb.adf|]
+Path=/klm_aurora_tb
+
+[Gui config]
+RunFor=100 ns
+
+[COMPILESTATUS|.\..\..\..\script\waves.do]
+FileTimeLow=30381164
+Status=Modified
+

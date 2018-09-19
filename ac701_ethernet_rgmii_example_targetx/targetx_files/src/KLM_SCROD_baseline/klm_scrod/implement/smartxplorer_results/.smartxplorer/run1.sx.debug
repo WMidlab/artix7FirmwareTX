@@ -1,0 +1,40 @@
+strategySpecString = ':oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spC:clcl:clbslUsers:clbslbkunkler:clbslDocuments:clbslCEEM:clbslrepos:clbslBelle:cldsII:clbslfirmware:clbslKLM_SCROD:clbslklm_scrod:clbslimplement:sp:dsp:spxc6slx150t:dsfgg676:ds3:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp3:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spklm_scrod.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp1:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapRunTime:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.6:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqC:cl:bsl:bslUsers:bsl:bslbkunkler:bsl:bslDocuments:bsl:bslCEEM:bsl:bslrepos:bsl:bslBelle:dsII:bsl:bslfirmware:bsl:bslKLM_SCROD:bsl:bslklm_scrod:bsl:bslimplement:sq:cc'
+Xilinx Environment Variables:
+
+{'XILINX_PLANAHEAD': 'C:\\Xilinx\\14.6\\ISE_DS\\PlanAhead'
+'XILINX_DSP': 'C:\\Xilinx\\14.6\\ISE_DS\\ISE'
+'XILINX_EDK': 'C:\\Xilinx\\14.6\\ISE_DS\\EDK'
+'LM_LICENSE_FILE': '27009@BL-CEEM-055'
+'XILINX': 'C:\\Xilinx\\14.6\\ISE_DS\\ISE\\'
+'PATH': 'C:\\Xilinx\\14.6\\ISE_DS\\ISE\\\\lib\\nt64;C:\\Xilinx\\14.6\\ISE_DS\\ISE\\\\bin\\nt64;C:\\Xilinx\\14.6\\ISE_DS\\ISE\\bin\\nt64;C:\\Xilinx\\14.6\\ISE_DS\\ISE\\lib\\nt64;C:\\Xilinx\\14.6\\ISE_DS\\ISE\\..\\..\\..\\DocNav;C:\\Xilinx\\14.6\\ISE_DS\\PlanAhead\\bin;C:\\Xilinx\\14.6\\ISE_DS\\EDK\\bin\\nt64;C:\\Xilinx\\14.6\\ISE_DS\\EDK\\lib\\nt64;C:\\Xilinx\\14.6\\ISE_DS\\EDK\\gnu\\microblaze\\nt\\bin;C:\\Xilinx\\14.6\\ISE_DS\\EDK\\gnu\\powerpc-eabi\\nt\\bin;C:\\Xilinx\\14.6\\ISE_DS\\EDK\\gnuwin\\bin;C:\\Xilinx\\14.6\\ISE_DS\\EDK\\gnu\\arm\\nt\\bin;C:\\Xilinx\\14.6\\ISE_DS\\EDK\\gnu\\microblaze\\linux_toolchain\\nt64_be\\bin;C:\\Xilinx\\14.6\\ISE_DS\\EDK\\gnu\\microblaze\\linux_toolchain\\nt64_le\\bin;C:\\Xilinx\\14.6\\ISE_DS\\common\\bin\\nt64;C:\\Xilinx\\14.6\\ISE_DS\\common\\lib\\nt64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Program Files (x86)\\Common Files\\Roxio Shared\\DLLShared\\;C:\\Aldec\\Active-HDL 9.1\\bin;c:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\Program Files\\TortoiseSVN\\bin;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Aldec\\Active-HDL 9.2\\bin;C:\\Program Files (x86)\\Git\\cmd;C:\\Program Files\\MATLAB\\R2013b\\bin;C:\\Cadence\\SPB_16.6\\openaccess\\bin\\win32\\opt;C:\\Cadence\\SPB_16.6\\tools\\capture;C:\\Cadence\\SPB_16.6\\tools\\pspice;C:\\Cadence\\SPB_16.6\\tools\\specctra\\bin;C:\\Cadence\\SPB_16.6\\tools\\fet\\bin;C:\\Cadence\\SPB_16.6\\tools\\libutil\\bin;C:\\Cadence\\SPB_16.6\\tools\\bin;C:\\Cadence\\SPB_16.6\\tools\\pcb\\bin;C:\\Cadence\\SPB_16.6\\tools\\pspice\\library;C:\\Program Files\\TortoiseSVN\\binC:\\Cadence\\SPB_16.6\\openaccess\\bin\\win32\\opt;C:\\Program Files (x86)\\PuTTY'}
+envDict = {}
+BL-CEEM-075_0.stat:C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\.sx.keepAlive.BL-CEEM-075_0
+INFO: total number of threads running this host None
+...searching for file: mapruntime.xds
+Creating XDS file ... mapruntime.xds
+###################################
+
+      <property name = "Map:Placer Effort Level"
+               value = "High" />
+      <property name = "Place &amp; Route:Place &amp; Route Effort Level (Overall)"
+               value = "High" />
+      <property name = "Generate Post-Place &amp; Route Static Timing:Number of Paths in Error/Verbose Report"
+               value = "3" />
+      <property name = "Generate Post-Place &amp; Route Static Timing:Report Type"
+               value = "Verbose Report" />
+      <property name = "Generate Post-Place &amp; Route Static Timing:Change Device Speed To"
+               value = "-3" />
+      <property name = "Generate Post-Place &amp; Route Static Timing:Report Paths by Endpoint"
+               value = "3" />
+      <property name = "Generate Post-Place &amp; Route Static Timing:Report Fastest Path(s) in Each Constraint"
+               value = "true" />
+###################################
+launching map with options  -ol high -w  -p xc6slx150t-fgg676-3 -o klm_scrod_map.ncd  C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun1:bslklm_scrod.pcf...
+runTask: map klm_scrod.ngd -ol high -w -p xc6slx150t-fgg676-3 -o klm_scrod_map.ncd C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1\klm_scrod.pcf
+args = ['map', 'klm_scrod.ngd', '-ol', 'high', '-w', '-p', 'xc6slx150t-fgg676-3', '-o', 'klm_scrod_map.ncd', 'C:\\Users\\bkunkler\\Documents\\CEEM\\repos\\Belle-II\\firmware\\KLM_SCROD\\klm_scrod\\implement\\smartxplorer_results\\run1\\klm_scrod.pcf']
+launching par with options  -ol high  -w klm_scrod.ncd  C:cl:bslUsers:bslbkunkler:bslDocuments:bslCEEM:bslrepos:bslBelle:dsII:bslfirmware:bslKLM_SCROD:bslklm_scrod:bslimplement:bslsmartxplorer_results:bslrun1:bslklm_scrod.pcf...
+runTask: par klm_scrod_map.ncd -ol high -w klm_scrod.ncd C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1\klm_scrod.pcf
+args = ['par', 'klm_scrod_map.ncd', '-ol', 'high', '-w', 'klm_scrod.ncd', 'C:\\Users\\bkunkler\\Documents\\CEEM\\repos\\Belle-II\\firmware\\KLM_SCROD\\klm_scrod\\implement\\smartxplorer_results\\run1\\klm_scrod.pcf']
+launching trce...
+runTask: trce C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1\klm_scrod.ncd C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1\klm_scrod.pcf -xml C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1\klm_scrod.twx -v 3 -s 3 -n 3 -fastpaths -o C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1\klm_scrod.twr
+args = ['trce', 'C:\\Users\\bkunkler\\Documents\\CEEM\\repos\\Belle-II\\firmware\\KLM_SCROD\\klm_scrod\\implement\\smartxplorer_results\\run1\\klm_scrod.ncd', 'C:\\Users\\bkunkler\\Documents\\CEEM\\repos\\Belle-II\\firmware\\KLM_SCROD\\klm_scrod\\implement\\smartxplorer_results\\run1\\klm_scrod.pcf', '-xml', 'C:\\Users\\bkunkler\\Documents\\CEEM\\repos\\Belle-II\\firmware\\KLM_SCROD\\klm_scrod\\implement\\smartxplorer_results\\run1\\klm_scrod.twx', '-v', '3', '-s', '3', '-n', '3', '-fastpaths', '-o', 'C:\\Users\\bkunkler\\Documents\\CEEM\\repos\\Belle-II\\firmware\\KLM_SCROD\\klm_scrod\\implement\\smartxplorer_results\\run1\\klm_scrod.twr']

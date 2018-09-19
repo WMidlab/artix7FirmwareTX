@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Kevin/Desktop/KO/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="156200001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="28" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject db_ref_id="1" fp_name="internal_PEDMAN_calc_peds_en" type="logic">
+      <obj_property name="ElementShortName">internal_PEDMAN_calc_peds_en</obj_property>
+      <obj_property name="ObjectShortName">internal_PEDMAN_calc_peds_en</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="internal_READCTRL_srout_restart" type="logic">
+      <obj_property name="ElementShortName">internal_READCTRL_srout_restart</obj_property>
+      <obj_property name="ObjectShortName">internal_READCTRL_srout_restart</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="internal_READCTRL_srout_start" type="logic">
+      <obj_property name="ElementShortName">internal_READCTRL_srout_start</obj_property>
+      <obj_property name="ObjectShortName">internal_READCTRL_srout_start</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_SerialDataRoutDemux/calc_peds_en" type="logic">
+      <obj_property name="ElementShortName">u_SerialDataRoutDemux/calc_peds_en</obj_property>
+      <obj_property name="ObjectShortName">u_SerialDataRoutDemux/calc_peds_en</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_SerialDataRoutDemux/next_state" type="array">
+      <obj_property name="ElementShortName">u_SerialDataRoutDemux/next_state[4:0]</obj_property>
+      <obj_property name="ObjectShortName">u_SerialDataRoutDemux/next_state[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_SerialDataRoutDemux/restart" type="logic">
+      <obj_property name="ElementShortName">u_SerialDataRoutDemux/restart</obj_property>
+      <obj_property name="ObjectShortName">u_SerialDataRoutDemux/restart</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_SerialDataRoutDemux/restart_i" type="array">
+      <obj_property name="ElementShortName">u_SerialDataRoutDemux/restart_i[1:0]</obj_property>
+      <obj_property name="ObjectShortName">u_SerialDataRoutDemux/restart_i[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_SerialDataRoutDemux/restart_peds_i" type="array">
+      <obj_property name="ElementShortName">u_SerialDataRoutDemux/restart_peds_i[1:0]</obj_property>
+      <obj_property name="ObjectShortName">u_SerialDataRoutDemux/restart_peds_i[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/trigin_i" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/trigin_i[1:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/trigin_i[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/enable_i" type="logic">
+      <obj_property name="ElementShortName">u_wavepedsub/enable_i</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/enable_i</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/dmx_allwin_done" type="logic">
+      <obj_property name="ElementShortName">u_wavepedsub/dmx_allwin_done</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/dmx_allwin_done</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="SRAM_1/addra" type="array">
+      <obj_property name="ElementShortName">SRAM_1/addra[19:0]</obj_property>
+      <obj_property name="ObjectShortName">SRAM_1/addra[19:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="SRAM_1/douta" type="array">
+      <obj_property name="ElementShortName">SRAM_1/douta[7:0]</obj_property>
+      <obj_property name="ObjectShortName">SRAM_1/douta[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/mode" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/mode[2:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/mode[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/ped_ch" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/ped_ch[3:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/ped_ch[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/ped_sub_start" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/ped_sub_start[1:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/ped_sub_start[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/ped_sub_fetch_done" type="logic">
+      <obj_property name="ElementShortName">u_wavepedsub/ped_sub_fetch_done</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/ped_sub_fetch_done</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/next_ped_st" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/next_ped_st[3:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/next_ped_st[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/u_pedarr/addra" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/u_pedarr/addra[10:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/u_pedarr/addra[10:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/u_pedarr/dina" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/u_pedarr/dina[11:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/u_pedarr/dina[11:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/u_pedarr/wea" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/u_pedarr/wea[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/u_pedarr/wea[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/win_addr_start_i" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/win_addr_start_i[8:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/win_addr_start_i[8:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/ped_win" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/ped_win[1:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/ped_win[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/bram_addrb" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/bram_addrb[10:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/bram_addrb[10:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/bram_doutb" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/bram_doutb[11:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/bram_doutb[11:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/pedsub_st" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/pedsub_st[5:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/pedsub_st[5:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/pswfifo_d" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/pswfifo_d[31:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/pswfifo_d[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="u_wavepedsub/sapedsub" type="array">
+      <obj_property name="ElementShortName">u_wavepedsub/sapedsub[12:0]</obj_property>
+      <obj_property name="ObjectShortName">u_wavepedsub/sapedsub[12:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

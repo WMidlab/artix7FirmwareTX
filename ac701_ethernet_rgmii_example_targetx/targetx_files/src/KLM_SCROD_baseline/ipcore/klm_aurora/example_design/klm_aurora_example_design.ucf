@@ -1,0 +1,103 @@
+##################################################################################
+## (c) Copyright 2008 Xilinx, Inc. All rights reserved.
+##
+## This file contains confidential and proprietary information
+## of Xilinx, Inc. and is protected under U.S. and
+## international copyright and other intellectual property
+## laws.
+##
+## DISCLAIMER
+## This disclaimer is not a license and does not grant any
+## rights to the materials distributed herewith. Except as
+## otherwise provided in a valid license issued to you by
+## Xilinx, and to the maximum extent permitted by applicable
+## law: (1) THESE MATERIALS ARE MADE AVAILABLE "AS IS" AND
+## WITH ALL FAULTS, AND XILINX HEREBY DISCLAIMS ALL WARRANTIES
+## AND CONDITIONS, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING
+## BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, NON-
+## INFRINGEMENT, OR FITNESS FOR ANY PARTICULAR PURPOSE; and
+## (2) Xilinx shall not be liable (whether in contract or tort,
+## including negligence, or under any other theory of
+## liability) for any loss or damage of any kind or nature
+## related to, arising under or in connection with these
+## materials, including for any direct, or any indirect,
+## special, incidental, or consequential loss or damage
+## (including loss of data, profits, goodwill, or any type of
+## loss or damage suffered as a result of any action brought
+## by a third party) even if such damage or loss was
+## reasonably foreseeable or Xilinx had been advised of the
+## possibility of the same.
+##
+## CRITICAL APPLICATIONS
+## Xilinx products are not designed or intended to be fail-
+## safe, or for use in any application requiring fail-safe
+## performance, such as life-support or safety devices or
+## systems, Class III medical devices, nuclear facilities,
+## applications related to the deployment of airbags, or any
+## other applications that could lead to death, personal
+## injury, or severe property or environmental damage
+## (individually and collectively, "Critical
+## Applications"). Customer assumes the sole risk and
+## liability of any use of Xilinx products in Critical
+## Applications, subject only to applicable laws and
+## regulations governing limitations on product liability.
+##
+## THIS COPYRIGHT NOTICE AND DISCLAIMER MUST BE RETAINED AS
+## PART OF THIS FILE AT ALL TIMES.
+##
+##
+#################################################################################
+## UCF generated for xc6slx150t-fgg676-3 device
+# 127.215MHz GTP Reference clock constraint
+#NET "GTPD2_left_i" TNM_NET = GT_REFCLK;
+TIMESPEC TS_GTPD2_LEFT_I = PERIOD "GT_REFCLK" 127.215 MHz HIGH 50%;
+NET "rclk_i" TNM_NET = GT_REFCLK;
+TIMESPEC TS_RCLK = PERIOD "GT_REFCLK" 127.215 MHz HIGH 50%;
+
+# User Clock Constraint: Value is selected based on the line rate (2.5443 Gbps) and lane width (2-Byte)
+NET "user_clk_i" TNM_NET = USER_CLK;
+TIMESPEC TS_USER_CLK_I = PERIOD "USER_CLK" 127.215 MHz HIGH 50%;
+#TIMESPEC TS_USER_CLK_I = PERIOD "USER_CLK" 7.861 ns HIGH 50%;
+
+# Sync Clock Constraint: Value is selected based on the line rate (2.5443 Gbps) and lane width (2-Byte)
+NET "sync_clk_i" TNM_NET = SYNC_CLK;
+TIMESPEC TS_SYNC_CLK_I = PERIOD "SYNC_CLK" 254.43 MHz HIGH 50%;
+#TIMESPEC TS_SYNC_CLK_I = PERIOD "SYNC_CLK" 3.93 ns HIGH 50%;
+
+#NET INIT_CLK LOC=G15 | PULLUP; #unused pin
+#NET GT_RESET_IN LOC=F15 | PULLDOWN; #unused pin
+#NET RESET LOC=J17 | PULLDOWN; #unused pin
+NET STATUS LOC=F16;
+
+# GT REFCLK
+#NET GTPD2_P  LOC=B10;
+#NET GTPD2_N  LOC=A10;
+NET RCLKP  LOC=AE13 | IOSTANDARD=LVDS_25 | DIFF_TERM=TRUE;
+NET RCLKN  LOC=AF13 | IOSTANDARD=LVDS_25 | DIFF_TERM=TRUE;
+
+NET RAM1_CE1 LOC= L20;		# RAM1_CE1,	J3_044_L20
+NET RAM1_CE2 LOC= K19;		# RAM1_CE2,	J3_045_K19
+NET RAM1_OE	LOC= M21;		# RAM1_OE,	J3_043_M21
+NET RAM1_WE	LOC= V6;		# RAM1_WE,	J3_017_V6
+NET RAM2_CE1 LOC= G20;		# RAM2_CE1,	J3_049_G20
+NET RAM2_CE2 LOC= H21;		# RAM2_CE2,	J3_052_H21
+NET RAM2_OE	LOC= H20;		# RAM2_OE,	J3_048_H20
+NET RAM2_WE	LOC= K21;		# RAM2_WE,	J3_047_K21
+
+NET MGTTXDIS[0] LOC=E10 ;
+NET MGTMOD2[0]  LOC=D13;
+NET MGTMOD1[0]  LOC=C13;
+
+NET MGTTXDIS[1] LOC=G13 ;
+NET MGTMOD2[1]  LOC=A14;
+NET MGTMOD1[1]  LOC=K12;
+
+# 50MHz board Clock Constraint
+#NET "reset_logic_i/init_clk_i" TNM_NET = INIT_CLK;
+#TIMESPEC TS_INIT_CLK = PERIOD "INIT_CLK" 20 ns HIGH 50%;
+
+###### No cross clock domain analysis. Domains are not related ##############
+TIMESPEC "TS_TIG1" = FROM "INIT_CLK" TO "USER_CLK" TIG;
+
+############################### GT Location ###################################
+INST aurora_module_i/gtp_wrapper_i/gtp_tile_inst/gtpa1_dual_i LOC=GTPA1_DUAL_X0Y1;

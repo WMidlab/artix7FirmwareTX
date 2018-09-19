@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="clkgen_synth_1" LaunchPart="xc7a200tfbg676-2" LaunchTime="1521509551">
+  <File Type="RDS-DCP" Name="clkgen.dcp"/>
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/clkgen_synth_1/constrs_in.xml"/>
+  <File Type="RDS-UTIL-PB" Name="clkgen_utilization_synth.pb"/>
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/clkgen_synth_1/sources.xml"/>
+  <File Type="PA-TCL" Name="clkgen.tcl"/>
+  <File Type="RDS-RDS" Name="clkgen.vds"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/clkgen_synth_1/clkgen_synth_1.psg"/>
+  <File Type="RDS-UTIL" Name="clkgen_utilization_synth.rpt"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/clkgen">
+    <File Path="$PSRCDIR/sources_1/ip/clkgen/clkgen.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="clkgen"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/clkgen">
+    <File Path="$PSRCDIR/sources_1/ip/clkgen/clkgen.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="clkgen"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2015"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

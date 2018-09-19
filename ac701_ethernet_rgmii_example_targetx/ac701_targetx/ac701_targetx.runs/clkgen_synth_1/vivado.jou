@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.3 (64-bit)
+# SW Build 1368829 on Mon Sep 28 20:06:43 MDT 2015
+# IP Build 1367837 on Mon Sep 28 08:56:14 MDT 2015
+# Start of session at: Mon Mar 19 15:32:35 2018
+# Process ID: 1120
+# Current directory: C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/clkgen_synth_1
+# Command line: vivado.exe -log clkgen.vds -mode batch -messageDb vivado.pb -notrace -source clkgen.tcl
+# Log file: C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/clkgen_synth_1/clkgen.vds
+# Journal file: C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/clkgen_synth_1\vivado.jou
+#-----------------------------------------------------------
+source clkgen.tcl -notrace

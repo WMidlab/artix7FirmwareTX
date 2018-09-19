@@ -1,0 +1,1 @@
+-b -d C:/Users/isar/Documents/code5/TX9UMB-4/src/KLM_SCROD_baseline/tdc/sim/compile -s C:/Users/isar/Documents/code5/TX9UMB-4/src/KLM_SCROD_baseline/tdc/sim/library.cfg -work tdc_lib ./source/tdc_tb.vhd

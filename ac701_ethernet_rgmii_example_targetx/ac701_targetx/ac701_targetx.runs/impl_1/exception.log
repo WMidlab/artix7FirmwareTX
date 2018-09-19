@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file C:\Users\Kevin\Desktop\KO\ac701_ethernet_rgmii_example_targetx\ac701_targetx\ac701_targetx.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied

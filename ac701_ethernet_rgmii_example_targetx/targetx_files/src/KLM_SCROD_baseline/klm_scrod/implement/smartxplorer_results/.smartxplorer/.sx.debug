@@ -1,0 +1,308 @@
+launching strategy on machine: BL-CEEM-075
+"C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\smartxplorer.exe"  --runStrategy  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1\klm_scrod.ngd"  xc6slx150t-fgg676-3  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run1\klm_scrod_sx.log"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\BL-CEEM-075_0.stat"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spC:clcl:clbslUsers:clbslbkunkler:clbslDocuments:clbslCEEM:clbslrepos:clbslBelle:cldsII:clbslfirmware:clbslKLM_SCROD:clbslklm_scrod:clbslimplement:sp:dsp:spxc6slx150t:dsfgg676:ds3:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp3:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spklm_scrod.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp1:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapRunTime:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.6:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqC:cl:bsl:bslUsers:bsl:bslbkunkler:bsl:bslDocuments:bsl:bslCEEM:bsl:bslrepos:bsl:bslBelle:dsII:bsl:bslfirmware:bsl:bslKLM_SCROD:bsl:bslklm_scrod:bsl:bslimplement:sq:cc map par
+launching strategy on machine: BL-CEEM-075
+"C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\smartxplorer.exe"  --runStrategy  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run2"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run2\klm_scrod.ngd"  xc6slx150t-fgg676-3  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run2\klm_scrod_sx.log"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\BL-CEEM-075_1.stat"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:dslogic_opt:spon:sp:dst:sp2:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spC:clcl:clbslUsers:clbslbkunkler:clbslDocuments:clbslCEEM:clbslrepos:clbslBelle:cldsII:clbslfirmware:clbslKLM_SCROD:clbslklm_scrod:clbslimplement:sp:dsp:spxc6slx150t:dsfgg676:ds3:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp3:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spklm_scrod.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp2:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapLogicOpt:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.6:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqC:cl:bsl:bslUsers:bsl:bslbkunkler:bsl:bslDocuments:bsl:bslCEEM:bsl:bslrepos:bsl:bslBelle:dsII:bsl:bslfirmware:bsl:bslKLM_SCROD:bsl:bslklm_scrod:bsl:bslimplement:sq:cc map par
+launching strategy on machine: BL-CEEM-075
+"C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\smartxplorer.exe"  --runStrategy  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run3"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run3\klm_scrod.ngd"  xc6slx150t-fgg676-3  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run3\klm_scrod_sx.log"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\BL-CEEM-075_2.stat"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsglobal_opt:spspeed:sp:dspr:spb:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spC:clcl:clbslUsers:clbslbkunkler:clbslDocuments:clbslCEEM:clbslrepos:clbslBelle:cldsII:clbslfirmware:clbslKLM_SCROD:clbslklm_scrod:clbslimplement:sp:dsp:spxc6slx150t:dsfgg676:ds3:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp3:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spklm_scrod.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp3:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapGlobOptIOReg:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.6:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqC:cl:bsl:bslUsers:bsl:bslbkunkler:bsl:bslDocuments:bsl:bslCEEM:bsl:bslrepos:bsl:bslBelle:dsII:bsl:bslfirmware:bsl:bslKLM_SCROD:bsl:bslklm_scrod:bsl:bslimplement:sq:cc map par
+launching strategy on machine: BL-CEEM-075
+"C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\smartxplorer.exe"  --runStrategy  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run4"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run4\klm_scrod.ngd"  xc6slx150t-fgg676-3  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run4\klm_scrod_sx.log"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\BL-CEEM-075_3.stat"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:dsregister_duplication:spon:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spC:clcl:clbslUsers:clbslbkunkler:clbslDocuments:clbslCEEM:clbslrepos:clbslBelle:cldsII:clbslfirmware:clbslKLM_SCROD:clbslklm_scrod:clbslimplement:sp:dsp:spxc6slx150t:dsfgg676:ds3:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp3:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spklm_scrod.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp4:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapRegDup:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.6:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqC:cl:bsl:bslUsers:bsl:bslbkunkler:bsl:bslDocuments:bsl:bslCEEM:bsl:bslrepos:bsl:bslBelle:dsII:bsl:bslfirmware:bsl:bslKLM_SCROD:bsl:bslklm_scrod:bsl:bslimplement:sq:cc map par
+launching strategy on machine: BL-CEEM-075
+"C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\smartxplorer.exe"  --runStrategy  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run5"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run5\klm_scrod.ngd"  xc6slx150t-fgg676-3  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run5\klm_scrod_sx.log"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\BL-CEEM-075_4.stat"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:dspr:spb:sp:dst:sp7:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spC:clcl:clbslUsers:clbslbkunkler:clbslDocuments:clbslCEEM:clbslrepos:clbslBelle:cldsII:clbslfirmware:clbslKLM_SCROD:clbslklm_scrod:clbslimplement:sp:dsp:spxc6slx150t:dsfgg676:ds3:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp3:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spklm_scrod.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp5:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapExtraEffortIOReg:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.6:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqC:cl:bsl:bslUsers:bsl:bslbkunkler:bsl:bslDocuments:bsl:bslCEEM:bsl:bslrepos:bsl:bslBelle:dsII:bsl:bslfirmware:bsl:bslKLM_SCROD:bsl:bslklm_scrod:bsl:bslimplement:sq:cc map par
+launching strategy on machine: BL-CEEM-075
+"C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\smartxplorer.exe"  --runStrategy  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run6"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run6\klm_scrod.ngd"  xc6slx150t-fgg676-3  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run6\klm_scrod_sx.log"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\BL-CEEM-075_5.stat"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:dslogic_opt:spon:sp:dsregister_duplication:spon:sp:dst:sp2:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spC:clcl:clbslUsers:clbslbkunkler:clbslDocuments:clbslCEEM:clbslrepos:clbslBelle:cldsII:clbslfirmware:clbslKLM_SCROD:clbslklm_scrod:clbslimplement:sp:dsp:spxc6slx150t:dsfgg676:ds3:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp3:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spklm_scrod.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp6:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapLogOptRegDup:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.6:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqC:cl:bsl:bslUsers:bsl:bslbkunkler:bsl:bslDocuments:bsl:bslCEEM:bsl:bslrepos:bsl:bslBelle:dsII:bsl:bslfirmware:bsl:bslKLM_SCROD:bsl:bslklm_scrod:bsl:bslimplement:sq:cc map par
+launching strategy on machine: BL-CEEM-075
+"C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\smartxplorer.exe"  --runStrategy  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run7"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run7\klm_scrod.ngd"  xc6slx150t-fgg676-3  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run7\klm_scrod_sx.log"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\BL-CEEM-075_6.stat"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:sp:dsol:sphigh:sp:dsxe:spn:sp:dst:sp3:sp:dsw:sp:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spC:clcl:clbslUsers:clbslbkunkler:clbslDocuments:clbslCEEM:clbslrepos:clbslBelle:cldsII:clbslfirmware:clbslKLM_SCROD:clbslklm_scrod:clbslimplement:sp:dsp:spxc6slx150t:dsfgg676:ds3:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp3:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spklm_scrod.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp7:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapExtraEffort2:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.6:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqC:cl:bsl:bslUsers:bsl:bslbkunkler:bsl:bslDocuments:bsl:bslCEEM:bsl:bslrepos:bsl:bslBelle:dsII:bsl:bslfirmware:bsl:bslKLM_SCROD:bsl:bslklm_scrod:bsl:bslimplement:sq:cc map par
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413159991.95 1413159991.48 1413159992.62
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413159991.95 1413159991.69 1413159992.62
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413159992.05 1413159991.73 1413159992.62
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413159992.32 1413159991.99 1413159992.62
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413159992.44 1413159992.26 1413159992.62
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413159992.57 1413159992.37 1413159992.63
+BL-CEEM-075_6 waiting on C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\.sx.keepAlive.BL-CEEM-075_6
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413159992.71 1413159992.63 1413160006.52
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160021.95 1413159992.62 1413160036.53
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413160021.95 1413159992.62 1413160036.54
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413160022.05 1413159992.62 1413160036.54
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413160022.32 1413159992.62 1413160036.54
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413160022.44 1413159992.62 1413160036.54
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413160022.6 1413159992.63 1413160036.55
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413160022.71 1413160006.52 1413160036.55
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160051.95 1413160036.53 1413160066.54
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413160051.95 1413160036.54 1413160066.54
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413160052.05 1413160036.54 1413160066.54
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413160052.33 1413160036.54 1413160066.55
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413160052.44 1413160036.54 1413160066.55
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413160052.6 1413160036.55 1413160066.56
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413160052.71 1413160036.55 1413160066.56
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160081.95 1413160066.54 1413160096.53
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413160081.95 1413160066.54 1413160096.54
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413160082.05 1413160066.55 1413160096.54
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413160082.33 1413160066.55 1413160096.54
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413160082.44 1413160066.55 1413160096.54
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413160082.6 1413160066.56 1413160096.55
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413160082.71 1413160066.56 1413160096.55
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160111.96 1413160096.53 1413160126.53
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413160111.96 1413160096.54 1413160126.54
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413160112.05 1413160096.54 1413160126.54
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413160112.33 1413160096.54 1413160126.54
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413160112.45 1413160096.54 1413160126.54
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413160112.61 1413160096.55 1413160126.55
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413160112.71 1413160096.55 1413160126.55
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160141.96 1413160126.53 1413160156.54
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413160141.96 1413160126.54 1413160156.54
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413160142.05 1413160126.54 1413160156.54
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413160142.33 1413160126.54 1413160156.55
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413160142.45 1413160126.54 1413160156.55
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413160142.62 1413160126.55 1413160156.55
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413160142.71 1413160126.55 1413160156.55
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160171.96 1413160156.54 1413160186.57
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413160171.96 1413160156.54 1413160186.57
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413160172.05 1413160156.54 1413160186.58
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413160172.33 1413160156.55 1413160186.58
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413160172.45 1413160156.55 1413160186.58
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413160172.64 1413160156.55 1413160186.58
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413160172.71 1413160156.55 1413160186.59
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160201.96 1413160186.57 1413160216.6
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413160201.96 1413160186.58 1413160216.6
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413160202.05 1413160186.58 1413160216.6
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413160202.35 1413160186.58 1413160216.61
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413160202.47 1413160186.58 1413160216.61
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413160202.65 1413160186.58 1413160216.61
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413160202.71 1413160186.59 1413160216.61
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160231.96 1413160216.6 1413160246.68
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413160231.96 1413160216.6 1413160246.69
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413160232.05 1413160216.6 1413160246.69
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413160232.35 1413160216.61 1413160246.69
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413160232.47 1413160216.61 1413160246.69
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413160232.65 1413160216.61 1413160246.69
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413160232.71 1413160216.61 1413160246.69
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160261.96 1413160246.68 1413160276.69
+BL-CEEM-075_1 BL-CEEM-075_1.stat 1413160261.96 1413160246.69 1413160276.69
+BL-CEEM-075_2 BL-CEEM-075_2.stat 1413160262.05 1413160246.69 1413160276.7
+BL-CEEM-075_3 BL-CEEM-075_3.stat 1413160262.35 1413160246.69 1413160276.7
+BL-CEEM-075_4 BL-CEEM-075_4.stat 1413160262.47 1413160246.69 1413160276.7
+BL-CEEM-075_5 BL-CEEM-075_5.stat 1413160262.76 1413160246.69 1413160276.7
+BL-CEEM-075_6 BL-CEEM-075_6.stat 1413160262.71 1413160246.7 1413160276.7
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 no new lines in stat file
+BL-CEEM-075_2 no new lines in stat file
+BL-CEEM-075_3 no new lines in stat file
+BL-CEEM-075_4 no new lines in stat file
+BL-CEEM-075_5 no new lines in stat file
+BL-CEEM-075_6 no new lines in stat file
+BL-CEEM-075_7 is Idle
+New best strategy: MapRegDup score: 9773
+New best strategy: MapExtraEffortIOReg score: 855
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run4/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run4/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run6/*ngc,*ngd...etc
+New best strategy: MapRunTime score: 0
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run4/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run6/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run2/*ngc,*ngd...etc
+BL-CEEM-075_0 is Idle
+BL-CEEM-075_1 is Idle
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run4/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run5/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run6/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run2/*ngc,*ngd...etc
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run4/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run5/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run6/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run2/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run7/*ngc,*ngd...etc
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+costcode :Adding new strategy: MapRunTimeCT2
+launching strategy on machine: BL-CEEM-075
+"C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\smartxplorer.exe"  --runStrategy  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run8"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run8\klm_scrod.ngd"  xc6slx150t-fgg676-3  "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run8\klm_scrod_sx.log"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\BL-CEEM-075_0.stat"   "C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\.smartxplorer\smartxplorer.env"   "None"  :oc:sqmap:sq:cl:sp:sq:dsol:sphigh:sp:dsw:sp:dst:sp2:sq:cm:sp:sqpower:sq:cl:sp:sqoff:sq:cm:sp:sqbitgen:sq:cl:sp:sqon:sq:cm:sp:sqsynplify:sq:cl:sp:sq:sq:cm:sp:sqngdbuild:sq:cl:sp:sq:dssd:spC:clcl:clbslUsers:clbslbkunkler:clbslDocuments:clbslCEEM:clbslrepos:clbslBelle:cldsII:clbslfirmware:clbslKLM_SCROD:clbslklm_scrod:clbslimplement:sp:dsp:spxc6slx150t:dsfgg676:ds3:sq:cm:sp:sqtrce:sq:cl:sp:sq:dsv:sp3:sp:dss:sp3:sp:dsn:sp3:sp:dsfastpaths:sp:dsxml:spklm_scrod.twx:sp:sq:cm:sp:sqmax_score:sq:cl:spNone:cm:sp:sqindex:sq:cl:sp8:cm:sp:sqpar:sq:cl:sp:sq:sp:dsol:sphigh:sp:sq:cm:sp:sqname:sq:cl:sp:sqMapRunTimeCT2:sq:cm:sp:sqxst:sq:cl:sp:sq:sq:cm:sp:sqarea:sq:cl:sp:os:sqlut:sq:cm:sp:sqslice_reg:sq:cs:cm:sp:sqversion:sq:cl:sp:sq14.6:sq:cm:sp:sqenv:sq:cl:sp:sq:oc:cc:sq:cm:sp:sqsxLaunchDir:sq:cl:sp:sqC:cl:bsl:bslUsers:bsl:bslbkunkler:bsl:bslDocuments:bsl:bslCEEM:bsl:bslrepos:bsl:bslBelle:dsII:bsl:bslfirmware:bsl:bslKLM_SCROD:bsl:bslklm_scrod:bsl:bslimplement:sq:cc map par
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160292.07 1413160388.88 1413160388.91
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160322.08 1413160388.91 1413160388.91
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160352.08 1413160388.91 1413160388.91
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160388.96 1413160388.91 1413160403.88
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160418.96 1413160403.88 1413160433.88
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160448.96 1413160433.88 1413160463.88
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160478.96 1413160463.88 1413160493.88
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 no new lines in stat file
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+BL-CEEM-075_0 BL-CEEM-075_0.stat 1413160508.96 1413160493.88 1413160523.88
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle
+New best strategy: MapRunTimeCT2 score: 0
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run4/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run5/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run6/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run2/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run3/*ngc,*ngd...etc
+Deleting ...C:\Users\bkunkler\Documents\CEEM\repos\Belle-II\firmware\KLM_SCROD\klm_scrod\implement\smartxplorer_results\run7/*ngc,*ngd...etc
+BL-CEEM-075_0 is Idle
+BL-CEEM-075_1 is Idle
+BL-CEEM-075_2 is Idle
+BL-CEEM-075_3 is Idle
+BL-CEEM-075_4 is Idle
+BL-CEEM-075_5 is Idle
+BL-CEEM-075_6 is Idle
+BL-CEEM-075_7 is Idle

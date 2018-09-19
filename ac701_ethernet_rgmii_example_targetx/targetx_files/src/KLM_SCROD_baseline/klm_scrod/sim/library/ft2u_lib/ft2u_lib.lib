@@ -1,0 +1,107 @@
+timestamp=1429079341063
+
+[~A]
+ModifyID=22
+Version=73
+
+[b2tt_de8b10b]
+A/implementation=21|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_8b10b.vhd|215|1*79219
+BinW64/implementation=3*38468
+I=0*27519
+I/implementation=0*40946
+M=11|2|vc4|1428974422442|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_8b10b.vhd|0*26846*0xf441f0d82ab851d8a0c48241f45471ba8932c45b|0*27366*0x5eebbfaf24833dd780412b1f91e05209
+M/implementation=21|2|vc4|1429079340404|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_8b10b.vhd|0*27759*0x3cc984757d7af8b3d1569d4e1196688196b50add|0*32509*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_8b10b.vhd|202
+Version=2014.10.81 (Windows64)|00000000
+Version/implementation=2014.10.81 (Windows64)|00000000
+
+[b2tt_en8b10b]
+A/implementation=21|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_8b10b.vhd|39|1*74359
+BinW64/implementation=3*34979
+I=0*22392
+I/implementation=0*40695
+M=11|2|vc4|1428974422432|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_8b10b.vhd|0*21681*0xb8819d36d1eaae27be1520e91e06f7b744578243|0*22239*0x5eebbfaf24833dd780412b1f91e05209
+M/implementation=21|2|vc4|1429079340392|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_8b10b.vhd|0*22628*0x7bc20ef679bf658d928c5a22f4f7c4a5eb1f50d8|0*26106*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_8b10b.vhd|24
+Version=2014.10.81 (Windows64)|00000000
+Version/implementation=2014.10.81 (Windows64)|00000000
+
+[b2tt_iscan]
+A/implementation=21|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_iscan.vhd|57|1*64595
+BinW64/implementation=3*28651
+I=0*11778
+I/implementation=0*40199
+M=11|2|vc4|1428974371291|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_iscan.vhd|0*10757*0xb5b4dd054ec2ad0c234d3a67ea28fabfe937633c|0*11627*0x5eebbfaf24833dd780412b1f91e05209
+M/implementation=21|2|vc4|1429079339950|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_iscan.vhd|0*12012*0x4312d9fac73f748a65328088a652487cd8401051|0*17302*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_iscan.vhd|19
+Version=2014.10.81 (Windows64)|00000000
+Version/implementation=2014.10.81 (Windows64)|00000000
+
+[b2tt_symbols]
+BinW64/b2tt_symbols=3*14091
+E=1*34997
+I=0*38523
+M=3|2|vc4|1428974422713|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_symbols.vhd|0*35174*0xfaa68eb8dadeb271b52730adbf1359f93617c4c3|0*38368*0x5eebbfaf24833dd780412b1f91e05209
+R=C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/b2tt_symbols.vhd|16
+Version=2014.10.81 (Windows64)|00000000
+
+[m_icon]
+A/structure=A/STRUCTURE 21|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/coregen/m_icon.vhd|45|1*63126
+I=0*559
+I/structure=I/STRUCTURE 0*39980
+M=11|2|vc4|1428974366487|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/coregen/m_icon.vhd|0*137*0x84a165976e75243094260af4983a8cbe4d5b2738|0*408*0x5eebbfaf24833dd780412b1f91e05209
+M/structure=M/STRUCTURE 21|2|vc4|1429079339429|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/coregen/m_icon.vhd|0*659*0xecb4c0067095a3423c8abf9ef4cd61f0fc1c56d7|0*874*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/coregen/m_icon.vhd|39
+Version=2014.10.81 (Windows64)|00000000
+Version/structure=2014.10.81 (Windows64)|00000000
+
+[m_ila]
+A/structure=A/STRUCTURE 21|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/coregen/m_ila.vhd|46|1*63771
+I=0*1818
+I/structure=I/STRUCTURE 0*40090
+M=11|2|vc4|1428974370888|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/coregen/m_ila.vhd|0*1342*0xecbb1b60ff47226c29792a54967ca607c530d84b|0*1669*0x5eebbfaf24833dd780412b1f91e05209
+M/structure=M/STRUCTURE 21|2|vc4|1429079339620|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/coregen/m_ila.vhd|0*1917*0xb27525fadcedac70adbfb704e71a2858e89794b9|0*2129*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/coregen/m_ila.vhd|38
+Version=2014.10.81 (Windows64)|00000000
+Version/structure=2014.10.81 (Windows64)|00000000
+
+[tt_types]
+E=1*2114
+I=0*9989
+M=3|2|vc4|1428974371070|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/tt_types.vhd|0*7308*0x80dd3ec71cce7f02e700c928ce1400d9f28d6d8b|0*9842*0x5eebbfaf24833dd780412b1f91e05209
+R=C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/tt_types.vhd|14
+Version=2014.10.81 (Windows64)|00000000
+
+[tt_utime]
+A/implementation=21|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/tt_utime.vhd|27|1*71023
+BinW64/implementation=3*33446
+I=0*19371
+I/implementation=0*40448
+M=11|2|vc4|1428974422246|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/tt_utime.vhd|0*18607*0xca00baf82b74e5231552a08af87a59c6f67d378d|0*19224*0x5eebbfaf24833dd780412b1f91e05209
+M/implementation=21|2|vc4|1429079340184|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/tt_utime.vhd|0*19603*0x5e63edc1a15aad86a503f5b3d870f4e4a003c6af|0*20908*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/tt_utime.vhd|13
+Version=2014.10.81 (Windows64)|00000000
+Version/implementation=2014.10.81 (Windows64)|00000000
+
+[x_decode]
+I=0*42583
+M=11|2|vc4|1429079341054|C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/x_decode.vhd|0*41683*0xa791daec0453138e1ab70e090e80f698f3b33878|0*42436*0x5eebbfaf24833dd780412b1f91e05209
+R=C:/Users/isar/Documents/code5/TX9UMB-4/src/integration/det_intfc/ft2u/ft2u/x_decode.vhd|23
+Version=2014.10.81 (Windows64)|00000000
+
+[~MFT]
+0=4|0ft2u_lib.mgf|42583|2910
+1=0|1ft2u_lib.mgf|79219|53624
+3=0|3ft2u_lib.mgf|38468|28182
+
+[~U]
+b2tt_de8b10b=11|0*26528||
+b2tt_en8b10b=11|0*21320||
+b2tt_iscan=11|0*10091||
+b2tt_symbols=3|0*32935|0*33228|
+m_icon=11|0*0||
+m_ila=11|0*1148||
+tt_types=3|0*2400|0*4457|
+tt_utime=11|0*18188||
+x_decode=11|0*41201||
+

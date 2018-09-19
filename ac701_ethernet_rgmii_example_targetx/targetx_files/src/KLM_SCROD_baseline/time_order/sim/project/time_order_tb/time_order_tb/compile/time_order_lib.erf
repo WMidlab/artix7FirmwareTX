@@ -1,0 +1,4 @@
+MESSAGE "File: source\time_order_tb.vhd" 
+MESSAGE "Compile Entity "time_order_tb"" 
+MESSAGE "Compile Architecture "behave" of Entity "time_order_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]" 

@@ -1,0 +1,44 @@
+Riviera-PRO 2014.10.81.5580(Windows64) 2015-04-15 09:16:20
+
+Elaboration top modules:
+Architecture                  behave(tdc_tb)
+
+
+-------------------------------------------------------------------------------------------
+Entity      | Architecture | Library | Info | Compiler Version       | Compilation Options
+-------------------------------------------------------------------------------------------
+tdc_tb      | behave       | tdc_lib |      | 2014.10.81 (Windows64) | 
+tdc         | behave       | tdc_lib |      | 2014.10.81 (Windows64) | 
+tdc_channel | behave       | tdc_lib |      | 2014.10.81 (Windows64) | 
+tdc_fifo    | fwft_arch0   | tdc_lib |      | 2014.10.81 (Windows64) | 
+FDCE        | fdce_v       | unisim  |      | 2014.10.81 (Windows64) |  -93
+FDSE        | fdse_v       | unisim  |      | 2014.10.81 (Windows64) |  -93
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+VHDL Package               | Library | Info | Compiler Version       | Compilation Options
+-------------------------------------------------------------------------------------------
+standard                   | std     |      |                        | <unavailable>
+TEXTIO                     | std     |      | 2014.10.81 (Windows64) |  -2008
+std_logic_1164             | ieee    |      | 2014.10.81 (Windows64) |  -2008
+NUMERIC_STD                | ieee    |      | 2014.10.81 (Windows64) |  -2008
+tdc_pkg                    | tdc_lib |      | 2014.10.81 (Windows64) | 
+MATH_REAL                  | ieee    |      | 2014.10.81 (Windows64) | <unavailable>
+std_logic_arith            | ieee    |      | 2014.10.81 (Windows64) | <unavailable>
+STD_LOGIC_UNSIGNED         | ieee    |      | 2014.10.81 (Windows64) | <unavailable>
+VCOMPONENTS                | unisim  |      | 2014.10.81 (Windows64) |  -93
+std_logic_misc             | ieee    |      | 2014.10.81 (Windows64) |  -2008
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                    | Comment
+-------------------------------------------------------------------------------------------
+ieee                       | Standard IEEE packages library
+std                        | Standard VHDL library
+tdc_lib                    | None
+unisim                     | None
+-------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -lib tdc_lib tdc_tb -t 10ps -ieee_nowarn +access +r
+

@@ -1,0 +1,4 @@
+MESSAGE "File: ..\..\tdc\source\tdc.vhd" 
+MESSAGE "Compile Entity "tdc"" 
+MESSAGE "Compile Architecture "behave" of Entity "tdc"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

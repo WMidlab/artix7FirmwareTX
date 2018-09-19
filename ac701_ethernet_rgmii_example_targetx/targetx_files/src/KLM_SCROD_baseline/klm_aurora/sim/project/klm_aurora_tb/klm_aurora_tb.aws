@@ -1,0 +1,12 @@
+[Version]
+Version=9.2
+[Designs]
+klm_aurora_tb=.\klm_aurora_tb\klm_aurora_tb.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+klm_aurora_tb=1

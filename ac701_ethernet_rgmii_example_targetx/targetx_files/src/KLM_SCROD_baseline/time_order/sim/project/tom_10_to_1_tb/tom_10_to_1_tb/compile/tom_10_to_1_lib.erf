@@ -1,0 +1,4 @@
+MESSAGE "File: source\tom_10_to_1_tb.vhd" 
+MESSAGE "Compile Entity "tom_10_to_1_tb"" 
+MESSAGE "Compile Architecture "behave" of Entity "tom_10_to_1_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]" 

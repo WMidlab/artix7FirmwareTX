@@ -1,0 +1,129 @@
+#-----------------------------------------------------------
+# Vivado v2015.3 (64-bit)
+# SW Build 1368829 on Mon Sep 28 20:06:43 MDT 2015
+# IP Build 1367837 on Mon Sep 28 08:56:14 MDT 2015
+# Start of session at: Mon Mar 19 16:24:23 2018
+# Process ID: 9476
+# Current directory: C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/impl_1
+# Command line: vivado.exe -log scrod_top_A5_KLM_9UMB.vdi -applog -messageDb vivado.pb -mode batch -source scrod_top_A5_KLM_9UMB.tcl -notrace
+# Log file: C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/impl_1/scrod_top_A5_KLM_9UMB.vdi
+# Journal file: C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source scrod_top_A5_KLM_9UMB.tcl -notrace
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/ac701_ethernet_rgmii.dcp' for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/eth_head_fifo/eth_head_fifo.dcp' for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_head_inst/eth_head_tx_fifo_1'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/tx_fifo/tx_fifo.dcp' for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/ip_udp_tx_block_inst/u_tx_fifo'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ip_rx_bram/ip_rx_bram.dcp' for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/ip_udp_rx_block_inst/u_ip_rx_bram'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/blk_mem_gen_v8_3/blk_mem_gen_v8_3.dcp' for cell 'u_wavepedsub/u_pedarr'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8.dcp' for cell 'u_ethernet_readout_interface/u_udp_wavtx_fifo_w32r8'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32.dcp' for cell 'u_ethernet_readout_interface/gen_udp_block.u_udp_cmdrx_wr8rd32'
+INFO: [Project 1-454] Reading design checkpoint 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8.dcp' for cell 'u_ethernet_readout_interface/u_udp_stattx_fifo_w32r8'
+INFO: [Project 1-454] Reading design checkpoint 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/clkgen_synth_1/clkgen.dcp' for cell 'clkgen_1'
+INFO: [Project 1-454] Reading design checkpoint 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/blk_mem_gen_0_synth_1/blk_mem_gen_0.dcp' for cell 'SRAM_1'
+INFO: [Project 1-454] Reading design checkpoint 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/blk_mem_gen_1_synth_1/blk_mem_gen_1.dcp' for cell 'u_SerialDataRoutDemux/u_bram2'
+INFO: [Project 1-454] Reading design checkpoint 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/blk_mem_gen_2_synth_1/blk_mem_gen_2.dcp' for cell 'u_SerialDataRoutDemux/u_bram3'
+INFO: [Project 1-454] Reading design checkpoint 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/srout_bram_blkmem_synth_1/srout_bram_blkmem.dcp' for cell 'u_SerialDataRoutDemux/u_srout_bram'
+INFO: [Netlist 29-17] Analyzing 1617 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2015.3
+INFO: [Device 21-403] Loading part xc7a200tfbg676-2
+INFO: [Project 1-570] Preparing netlist for logic optimization
+WARNING: [Opt 31-32] Removing redundant IBUF since it is not being driven by a top-level port. clkgen_1/inst/clkin1_ibufg 
+Resolution: The tool has removed redundant IBUF. To resolve this warning, check for redundant IBUF in the input design.
+WARNING: [Constraints 18-550] Could not create 'IBUF_LOW_PWR' constraint because net 'clkgen_1/clk_in1' is not directly connected to top level port. 'IBUF_LOW_PWR' is ignored by Vivado but preserved for implementation tool. [C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/impl_1/.Xil/Vivado-9476-/dcp_10/clkgen.edf:297]
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_board.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_board.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/eth_head_fifo/eth_head_fifo/eth_head_fifo.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_head_inst/eth_head_tx_fifo_1/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/eth_head_fifo/eth_head_fifo/eth_head_fifo.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_head_inst/eth_head_tx_fifo_1/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/tx_fifo/tx_fifo/tx_fifo.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/ip_udp_tx_block_inst/u_tx_fifo/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/tx_fifo/tx_fifo/tx_fifo.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/ip_udp_tx_block_inst/u_tx_fifo/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8.xdc] for cell 'u_ethernet_readout_interface/u_udp_wavtx_fifo_w32r8/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8.xdc] for cell 'u_ethernet_readout_interface/u_udp_wavtx_fifo_w32r8/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_udp_cmdrx_wr8rd32/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_udp_cmdrx_wr8rd32/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8.xdc] for cell 'u_ethernet_readout_interface/u_udp_stattx_fifo_w32r8/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8.xdc] for cell 'u_ethernet_readout_interface/u_udp_stattx_fifo_w32r8/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.srcs/sources_1/ip/clkgen/clkgen_board.xdc] for cell 'clkgen_1/inst'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.srcs/sources_1/ip/clkgen/clkgen_board.xdc] for cell 'clkgen_1/inst'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.srcs/sources_1/ip/clkgen/clkgen.xdc] for cell 'clkgen_1/inst'
+INFO: [Timing 38-35] Done setting XDC timing constraints. [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.srcs/sources_1/ip/clkgen/clkgen.xdc:56]
+INFO: [Timing 38-2] Deriving generated clocks [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.srcs/sources_1/ip/clkgen/clkgen.xdc:56]
+get_clocks: Time (s): cpu = 00:00:16 ; elapsed = 00:00:15 . Memory (MB): peak = 1118.699 ; gain = 537.992
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.srcs/sources_1/ip/clkgen/clkgen.xdc] for cell 'clkgen_1/inst'
+Parsing XDC File [C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/constrs_1/imports/example_design/ac701_ethernet_rgmii_example_design.xdc]
+Finished Parsing XDC File [C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/constrs_1/imports/example_design/ac701_ethernet_rgmii_example_design.xdc]
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/ac701_ethernet_rgmii.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/eth_head_fifo/eth_head_fifo.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/tx_fifo/tx_fifo.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ip_rx_bram/ip_rx_bram.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/blk_mem_gen_v8_3/blk_mem_gen_v8_3.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/clkgen_synth_1/clkgen.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/blk_mem_gen_0_synth_1/blk_mem_gen_0.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/blk_mem_gen_1_synth_1/blk_mem_gen_1.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/blk_mem_gen_2_synth_1/blk_mem_gen_2.dcp'
+INFO: [Project 1-538] Using original IP XDC constraints instead of the XDC constraints in dcp 'C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/srout_bram_blkmem_synth_1/srout_bram_blkmem.dcp'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_clocks.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0'
+INFO: [Timing 38-2] Deriving generated clocks [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_clocks.xdc:6]
+INFO: [Vivado 12-3272] Current instance is the top level cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0' of design 'design_1' [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_clocks.xdc:29]
+INFO: [Constraints 18-483] create_clock: no pin(s)/port(s)/net(s) specified as objects, only virtual clock 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0_rgmii_rx_clk' will be created. If you don't want this, please specify pin(s)/ports(s)/net(s) as objects to the command. [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_clocks.xdc:29]
+INFO: [Vivado 12-3272] Current instance is the top level cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0' of design 'design_1' [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_clocks.xdc:30]
+INFO: [Vivado 12-3272] Current instance is the top level cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0' of design 'design_1' [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_clocks.xdc:53]
+INFO: [Vivado 12-3272] Current instance is the top level cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0' of design 'design_1' [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_clocks.xdc:54]
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_clocks.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8_clocks.xdc] for cell 'u_ethernet_readout_interface/u_udp_wavtx_fifo_w32r8/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8/udp_wavtx_fifo_w32r8_clocks.xdc] for cell 'u_ethernet_readout_interface/u_udp_wavtx_fifo_w32r8/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32_clocks.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_udp_cmdrx_wr8rd32/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32/udp_cmdrx_wr8rd32_clocks.xdc] for cell 'u_ethernet_readout_interface/gen_udp_block.u_udp_cmdrx_wr8rd32/U0'
+Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8_clocks.xdc] for cell 'u_ethernet_readout_interface/u_udp_stattx_fifo_w32r8/U0'
+Finished Parsing XDC File [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8/udp_stattx_fifo_wr32r8_clocks.xdc] for cell 'u_ethernet_readout_interface/u_udp_stattx_fifo_w32r8/U0'
+INFO: [Opt 31-140] Inserted 1 IBUFs to IO ports without IO buffers.
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 12 instances were transformed.
+  IOBUF => IOBUF (IBUF, OBUFT): 2 instances
+  RAM32M => RAM32M (RAMD32, RAMD32, RAMD32, RAMD32, RAMD32, RAMD32, RAMS32, RAMS32): 2 instances
+  RAM64X1D => RAM64X1D (RAMD64E, RAMD64E): 8 instances
+
+link_design: Time (s): cpu = 00:00:33 ; elapsed = 00:00:33 . Memory (MB): peak = 1163.898 ; gain = 952.609
+Command: opt_design
+Attempting to get a license for feature 'Implementation' and/or device 'xc7a200t'
+INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a200t'
+INFO: [Common 17-1223] The version limit for your license is '2017.01' and will expire in -412 days. A version limit expiration means that, although you may be able to continue to use the current version of tools or IP with this license, you will not be eligible for any updates or new releases.
+Running DRC as a precondition to command opt_design
+
+Starting DRC Task
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Project 1-461] DRC finished with 0 Errors
+INFO: [Project 1-462] Please refer to the DRC report (report_drc) for more information.
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.554 . Memory (MB): peak = 1163.898 ; gain = 0.000
+INFO: [Constraints 18-483] create_clock: no pin(s)/port(s)/net(s) specified as objects, only virtual clock 'u_ethernet_readout_interface/gen_udp_block.u_eth_top/udp_1/eth_inst/trimac_fifo_block/trimac_sup_block/tri_mode_ethernet_mac_i/U0_rgmii_rx_clk' will be created. If you don't want this, please specify pin(s)/ports(s)/net(s) as objects to the command. [c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_ethernet_rgmii_example.srcs/sources_1/ip/ac701_ethernet_rgmii/synth/ac701_ethernet_rgmii_clocks.xdc:29]
+INFO: [Timing 38-35] Done setting XDC timing constraints.
+
+Starting Logic Optimization Task
+
+Phase 1 Generate And Synthesize Debug Cores
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.cache/ip'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2015.3/data/ip'.
+INFO: [IP_Flow 19-3806] Processing IP xilinx.com:ip:xsdbm:1.1 for cell dbg_hub_CV.
+Phase 1 Generate And Synthesize Debug Cores | Checksum: 1c5d64615
+
+Time (s): cpu = 00:00:04 ; elapsed = 00:01:35 . Memory (MB): peak = 1225.746 ; gain = 61.848
+INFO: [Common 17-83] Releasing license: Implementation
+55 Infos, 2 Warnings, 0 Critical Warnings and 1 Errors encountered.
+opt_design failed
+ERROR: [Chipscope 16-119] Implementing debug core dbg_hub failed.
+ERROR: Could not generate core for dbg_hub. Aborting IP Generation operation.
+	ERROR: [Chipscope 16-218] An error occurred while trying to create or get a cached instance from the IP cache manager:
+	"Problem generating DCP file"
+
+
+INFO: [Common 17-206] Exiting Vivado at Mon Mar 19 16:26:39 2018...

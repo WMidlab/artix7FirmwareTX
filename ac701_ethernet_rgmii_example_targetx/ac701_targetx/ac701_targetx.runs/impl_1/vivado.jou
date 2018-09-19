@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.3 (64-bit)
+# SW Build 1368829 on Mon Sep 28 20:06:43 MDT 2015
+# IP Build 1367837 on Mon Sep 28 08:56:14 MDT 2015
+# Start of session at: Mon Mar 19 16:24:23 2018
+# Process ID: 9476
+# Current directory: C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/impl_1
+# Command line: vivado.exe -log scrod_top_A5_KLM_9UMB.vdi -applog -messageDb vivado.pb -mode batch -source scrod_top_A5_KLM_9UMB.tcl -notrace
+# Log file: C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/impl_1/scrod_top_A5_KLM_9UMB.vdi
+# Journal file: C:/Users/Jose Idlabs/Documents/ac701_ethernet_rgmii_example_targetx/ac701_targetx/ac701_targetx.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source scrod_top_A5_KLM_9UMB.tcl -notrace

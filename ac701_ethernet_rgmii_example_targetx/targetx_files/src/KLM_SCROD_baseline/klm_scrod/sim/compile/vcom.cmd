@@ -1,0 +1,1 @@
+-b -d C:/Users/isar/Documents/code5/TX9UMB-4/src/KLM_SCROD_baseline/klm_scrod/sim/compile -s C:/Users/isar/Documents/code5/TX9UMB-4/src/KLM_SCROD_baseline/klm_scrod/sim/library.cfg -work ft2u_lib ./../../../integration/det_intfc/ft2u/ft2u/x_decode.vhd
